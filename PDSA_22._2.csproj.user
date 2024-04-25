@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Decode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="edHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Eightqueen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FindShortestPath.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IdentifyMinimumConnectors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tik Tak Toe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

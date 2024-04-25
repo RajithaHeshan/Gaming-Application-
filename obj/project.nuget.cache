@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HsPmnM6xaG05AqlKhtW54vrLJyngxtuIeNa6yTqHadUU8QkRK4Mf00hJ12lFyk6ykjwF73xnuiBxqoQnMNbZ1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smdth\\OneDrive\\Desktop\\New ui\\PDSA_22._2\\PDSA_22._2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smdth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\smdth\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512",
+    "C:\\Users\\smdth\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\smdth\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
